@@ -1,0 +1,26 @@
+"2018-07-26 14:41:59 [main] INFO  c.techsophy.vps.VpsApplicationTests - Starting VpsApplicationTests on techsophy-ThinkCentre-Edge72 with PID 7232 (started by sakshi in /home/sakshi/Documents/Tahakom/vsc-ui-dev/tahakom/vps)
+""2018-07-26 14:41:59 [main] DEBUG c.techsophy.vps.VpsApplicationTests - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+""2018-07-26 14:41:59 [main] INFO  c.techsophy.vps.VpsApplicationTests - No active profile set, falling back to default profiles: default
+""2018-07-26 14:42:01 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+""2018-07-26 14:42:02 [main] INFO  c.techsophy.vps.VpsApplicationTests - Started VpsApplicationTests in 3.482 seconds (JVM running for 4.508)
+""2018-07-26 14:57:55 [main] INFO  c.techsophy.vps.VpsApplicationTests - Starting VpsApplicationTests on techsophy-ThinkCentre-Edge72 with PID 8419 (started by sakshi in /home/sakshi/Documents/Tahakom/vsc-ui-dev/tahakom/vps)
+""2018-07-26 14:57:55 [main] DEBUG c.techsophy.vps.VpsApplicationTests - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+""2018-07-26 14:57:55 [main] INFO  c.techsophy.vps.VpsApplicationTests - No active profile set, falling back to default profiles: default
+""2018-07-26 14:57:56 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+""2018-07-26 14:57:58 [main] INFO  c.techsophy.vps.VpsApplicationTests - Started VpsApplicationTests in 3.267 seconds (JVM running for 4.313)
+""2018-07-27 17:11:50 [main] INFO  c.techsophy.vps.VpsApplicationTests - Starting VpsApplicationTests on techsophy-ThinkCentre-Edge72 with PID 10245 (started by sakshi in /home/sakshi/Documents/Tahakom/vsc-ui-dev/tahakom/vps)
+""2018-07-27 17:11:50 [main] DEBUG c.techsophy.vps.VpsApplicationTests - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+""2018-07-27 17:11:50 [main] INFO  c.techsophy.vps.VpsApplicationTests - No active profile set, falling back to default profiles: default
+""2018-07-27 17:11:53 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+""2018-07-27 17:11:54 [main] INFO  c.techsophy.vps.VpsApplicationTests - Started VpsApplicationTests in 4.596 seconds (JVM running for 6.265)
+""2018-08-01 11:12:03 [main] INFO  c.techsophy.vps.VpsApplicationTests - Starting VpsApplicationTests on techsophy-ThinkCentre-Edge72 with PID 4192 (started by sakshi in /home/sakshi/Documents/Tahakom/vsc-ui-dev/tahakom/vps)
+""2018-08-01 11:12:03 [main] DEBUG c.techsophy.vps.VpsApplicationTests - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+""2018-08-01 11:12:03 [main] INFO  c.techsophy.vps.VpsApplicationTests - No active profile set, falling back to default profiles: default
+""2018-08-01 11:12:05 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+""2018-08-01 11:12:07 [main] INFO  c.techsophy.vps.VpsApplicationTests - Started VpsApplicationTests in 4.93 seconds (JVM running for 6.54)
+""2018-08-01 11:14:24 [main] INFO  c.techsophy.vps.VpsApplicationTests - Starting VpsApplicationTests on techsophy-ThinkCentre-Edge72 with PID 4417 (started by sakshi in /home/sakshi/Documents/Tahakom/vsc-ui-dev/tahakom/vps)
+""2018-08-01 11:14:24 [main] DEBUG c.techsophy.vps.VpsApplicationTests - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+""2018-08-01 11:14:24 [main] INFO  c.techsophy.vps.VpsApplicationTests - No active profile set, falling back to default profiles: default
+""2018-08-01 11:14:25 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+""2018-08-01 11:14:27 [main] INFO  c.techsophy.vps.VpsApplicationTests - Started VpsApplicationTests in 2.667 seconds (JVM running for 3.388)
+"
